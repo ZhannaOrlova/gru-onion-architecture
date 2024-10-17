@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+myenv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# Data files
+*.csv
+*.txt
+
+# TensorFlow model files
+*.h5
+*.pb
+*.ckpt
+*.checkpoint
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Pytest cache
+.cache/
+.pytest_cache/
+
+# Byte-compiled files
+*.py[cod]
